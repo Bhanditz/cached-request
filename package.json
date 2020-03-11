@@ -21,7 +21,7 @@
   ],
   "dependencies": {
     "graceful-fs": "^4.0.0",
-    "mkdirp": "^0.5.1"
+    "mkdirp": "^1.0.0"
   },
   "devDependencies": {
     "chai": "^1.10.0",
